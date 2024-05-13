@@ -55,3 +55,13 @@
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
+
+### Competitive programming debug files ###
+# Test cases input files
+in
+
+# Test cases output files
+# Output generated
+out
+# Output expected
+out_ex
