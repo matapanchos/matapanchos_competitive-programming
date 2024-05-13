@@ -25,10 +25,10 @@ Complejidad de espacio = O(*) con * <= ?
 #define sz(x) (int)(x).size()
 #define FOR(i, a, b) for (int i = (a); i <= (b); i++)
 #define ROF(i, a, b) for (int i = (a); i >= (b); i--)
-#define FASTIO                      \
-  ios_base::sync_with_stdio(false); \
-  cin.tie(0);                       \
-  cout.tie(0);
+#define FASTIO                        \
+	ios_base::sync_with_stdio(false); \
+	cin.tie(0);                       \
+	cout.tie(0);
 
 using namespace std;
 
@@ -44,6 +44,6 @@ typedef vector<bool> vb;
 
 int main(int argc, char const *argv[])
 {
-
-  return 0;
+	
+	return 0;
 }
