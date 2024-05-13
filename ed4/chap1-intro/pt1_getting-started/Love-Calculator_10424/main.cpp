@@ -84,7 +84,7 @@ double love_calculator(string name1, string name2)
 	{
 		name2_number = sum_digits(name2_number);
 	}
-	ratio_love = name1_number < name1_number ? (double)name1_number / (double)name2_number : (double)name2_number / (double)name1_number;
+	ratio_love = name1_number < name2_number ? (double)name1_number / (double)name2_number : (double)name2_number / (double)name1_number;
 	return ratio_love;
 }
 
